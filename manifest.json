@@ -1,0 +1,12 @@
+{
+  "name": "Inventaire Gambetta",
+  "short_name": "Inv. Gambetta",
+  "description": "Inventaire hors ligne du restaurant Wayo Wayo Gambetta",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F1F5F4",
+  "theme_color": "#1F6F8B",
+  "lang": "fr",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
